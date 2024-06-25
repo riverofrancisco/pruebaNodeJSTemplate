@@ -8,7 +8,7 @@ Necesitamos construir la lógica del dominio de una aplicación para un negocio 
 
 1. Crea una clase para 2 tipos de hoja de cuaderno (rallada o cuadriculada) que herede de una clase base.
 
-2. Crea una variable con el tipo de producto (rallado o cuadriculado) dentro de la clase base
+2. Crea una variable con el tipo de producto (rallado o cuadriculado) dentro de la clase base y asignale un valor en las clases extendidas.
 
 ## Nivel 2
 
