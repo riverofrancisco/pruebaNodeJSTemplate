@@ -1,6 +1,6 @@
 # Enunciado Prueba de Nivel
 
-### 03/07/2024
+### 09/07/2024
 
 Necesitamos construir la lógica del dominio de una aplicación de streaming. En concreto debemos poder crear las entidades y los metodos principales de los usuarios de esta aplicación. Todos los usuarios deben tener un nombre de usuario.
 
