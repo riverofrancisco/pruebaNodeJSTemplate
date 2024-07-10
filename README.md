@@ -8,7 +8,7 @@ Necesitamos construir la lógica del dominio de una aplicación de streaming. En
 
 1. Crea una clase para cada tipo de usuario (premium o standard) que herede de una clase base.
 
-2. En otro archivo, repite la lógica pero creando una variable con el tipo de suscripción (premium o standard) dentro de la clase base y asignale un valor en las clases extendidas.
+2. Crea una variable con el tipo de suscripción (premium o standard) dentro de la clase base y asignale un valor en las clases extendidas.
 
 ## Nivel 2
 
