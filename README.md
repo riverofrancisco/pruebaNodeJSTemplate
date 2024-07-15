@@ -1,6 +1,6 @@
 # Enunciado Prueba de Nivel
-
-### 15/07/2024
+- **Fecha:** 15/07/2024
+- **Importante:** Recuerda que debes completar almenos una parte de cada nivel para aprobar la prueba.
 
 Necesitamos construir la lógica del dominio de una tienda de cafe. En concreto debemos poder crear las entidades y los metodos principales de café que vende la tienda. Todos los café deben tener un tamaño (grande, mediano, pequeño).
 
