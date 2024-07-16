@@ -6,19 +6,20 @@
 
 ## Enunciado
 
-Necesitamos construir la lógica del dominio de una tienda de cafe. En concreto debemos poder crear las entidades y los metodos principales de café que vende la tienda. Todos los café deben tener un tamaño (grande, mediano, pequeño).
+Necesitamos construir la lógica del dominio de una tienda de ropa. En concreto debemos poder crear las entidades y los metodos principales de la ropa que vende la tienda. Todas las prendas deben tener un tamaño (XS, S, M, L, XL).
 
 ### Ejercicio 1
 
-- **1.1)** Crea una clase para cada tipo pedido ("para llevar" o "para consumir en tienda") que herede de una clase base.
-- **1.2)** Crea una propiedad con el tipo de pedido ("para llevar" o "para consumir en tienda") dentro de la clase base y asignale un valor en las clases extendidas.
+- **1.1)** Crea dos clases que hereden de una clase base para clasificar el género que puede tener cada prenda ("Masculino" o "Femenino").
+- **1.2)** Crea una propiedad con el género ("Masculino" o "Femenino") dentro de la clase base y asignale un valor en las clases extendidas.
 
 ### Ejercicio 2
+> En nuestra tienda, las prendas de mujer van en planta baja y las de hombre en la primera planta.
 
-- **2.1)** Usa una interfaz para que la clase base tenga un método que devuelva el vaso en que se servirá el café segun su tipo de pedido.
-- **2.2)** Implementa la funcionalidad de ese método en las clases extendidas para que devuelvan el valor correspondiente. Si es "para llevar", se servirá en "vaso de carton", y si es "para consumir en tienda" se servirá en "taza".
+- **2.1)** Usa una interfaz para que la clase base tenga un método que devuelva la planta en que se ubicará la prenda según su género.
+- **2.2)** Implementa la funcionalidad de ese método en las clases extendidas para que devuelvan el valor correspondiente. Si el género es "Masculino", se ubicará en "primera planta", y si es "Femeninio" se ubicará en "planta baja".
 
 ### Ejercicio 3
 
-- **3.1)** Crea un test que compruebe que el metodo de devolver el tipo de vaso donde se sirve el café existe.
+- **3.1)** Crea un test que compruebe que la propiedad género existe en las clases extendidas.
 - **3.2)** Crea un test que compruebe que el metodo de devolver el tipo de vaso se ejecuta correctamente.
