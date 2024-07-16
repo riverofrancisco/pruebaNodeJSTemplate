@@ -1,5 +1,5 @@
 # Prueba de Nivel
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > - **Fecha:** 15/07/2024
 > - **Importante:** Recuerda que debes completar almenos una parte de cada ejercicio para aprobar la prueba.
 
