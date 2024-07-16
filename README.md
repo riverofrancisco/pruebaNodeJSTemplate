@@ -1,8 +1,8 @@
 # Prueba de Nivel
 > [!IMPORTANT]
-> **Fecha:** 18/07/2024
-> **Criterio de Aprobación** Debes completar almenos un punto de cada ejercicio y un mínimo de 4 puntos entre los 3 ejercicios para aprobar la prueba.
-> **Adicional** Como es una instancia de evaluación, no podrás revisar internet. Sí puedes consultar trabajos que hayas realizado en Sprints anteriores, pero no material ajeno.
+> - **Fecha:** 18/07/2024
+> - **Criterio de Aprobación** Debes completar almenos un punto de cada ejercicio y un mínimo de 4 puntos entre los 3 ejercicios para aprobar la prueba.
+> - **Adicional** Como es una instancia de evaluación, no podrás revisar internet. Sí puedes consultar trabajos que hayas realizado en Sprints anteriores, pero no material ajeno.
 
 ## Enunciado
 
